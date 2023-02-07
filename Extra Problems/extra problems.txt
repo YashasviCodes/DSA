@@ -1,0 +1,63 @@
+1)   2 Sum problem 
+Que - you are given a vector of numbers , return 2 indexes whose sum equals to target.)
+
+(leetcode)(☑️) :-  https://leetcode.com/problems/two-sum/submissions/
+----------------------------------------------------------------------------
+2)   Leaders In an array
+
+(GFG)(☑️) :-  https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+
+2 approaches (1 TLE) (2nd - passed)
+---------------------------------------------------------------------------------------------
+3)   Binary Search 
+
+(GFG)(☑️) :- https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&curated[]=1&sortBy=submissions
+------------------------------------------------------------------------------------------------------------------
+4)   Equlibrium Position 
+
+(GFG)(☑️) :- https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1
+--------------------------------------------------------------------------------------------------
+5) Search Insert Position
+
+(leetcode)(☑️) : https://leetcode.com/problems/search-insert-position/
+----------------------------------------------------------------------------------------------
+6) Merge Sorted Arrays - MED
+
+(App-1)solved using extra space 
+(GFG- 100/110 case) : https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
+-----------------------------------------------------------------------------------------
+7) Check for subsequence  - EASY
+
+(App-1)
+(GFG)(☑️) : https://practice.geeksforgeeks.org/problems/check-for-subsequence4930/1
+----------------------------------------------------------------------------------------------
+8) Towers of Hanoi - MED 
+App - 1 (recursion)
+(GFG☑️) : https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1
+
+-----------------------------------------------------------------------------------------------
+9)Reverse a linked list between given positions (left ,right) - MED 
+App-1 (iterative)
+(Leetcode☑️) : https://leetcode.com/problems/reverse-linked-list-ii/submissions/
+
+------------------------------------------------------------------------------------
+10) Remove Adjacent Dulpicates , untill there is no dulpicates left - MED
+App-1 Recursive - 208 / 300 cases
+App-2 Recursive☑️(gfg)  : https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1
+
+-------------------------------------------------------------------------------------------
+11) Set last node to front of linked list - EASY 
+(approach - 1 Iterative☑️) gfg : https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1?page=5&category%5B%5D=Linked%20List&sortBy=submissions
+
+---------------------------------------------------------------------------------------------
+12) [Kadane's Algo]  Find the max contiguous sub array sum. (non contigious means we can pick random elements) (contigious means we will need to pick the elements in order)
+
+⚠️Approach - 1 (Brute force) - TLE 
+☑️Approach - 2 (Kadanes Algo) - BEST SOL 
+
+solved at gfg : https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
+----------------------------------------------------------------------------------------------------
+13) are 2 strings Anagrams
+
+☑️App-1 (using un_maps) : gfg : https://practice.geeksforgeeks.org/problems/anagram-1587115620/1 
+----------------------------------------------------------------------------------------------
